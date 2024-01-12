@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nika
-- 👀 I’m interested in learning as much as I can, but more specifically - programming and clouds.
-- 🌱 I’m currently learning Python 3 and Cloud Application programming.
-- 💞️ I’m looking to collaborate on projects that would involve Python, let's leetcode together!
+- 👀 I’m interested in learning as much as I can, but more specifically - programming.
+- 🌱 I’m currently studying Python 3 and Cloud Application programming.
+- 💞️ I’m looking to collaborate on projects, or let's just leetcode together!
 - 📫 You can reach me via my email firstnamenika@gmail.com.
 
 <!---
