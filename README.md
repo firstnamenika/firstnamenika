@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nika
-- 👀 Currently, I'm studying, and taking particular effort to learn Data Structures and Algorithms with Python, and some JavaScript along the way. 
+- 👀 Currently, I am studying and taking a particular effort to learn Data Structures and Algorithms with Python, and some JavaScript along the way. 
 - 🌱 My end goal is to work in Cloud Application Development.
 - 💞️ 
 - 📫 from alpha to omega, from dawn to dusk - to rebel and to excel.
